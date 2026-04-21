@@ -96,6 +96,6 @@ Ziel war die Umsetzung eines vollständigen Spiels mit:
 
 ---
 
-## 👨Autor
+## Autor
 
 Ivo Günther - Fullstack Webdeveloper
