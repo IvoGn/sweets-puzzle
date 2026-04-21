@@ -1,6 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/sweets-puzzle/',
+  
   server: {
     port: 8080,
     open: true,

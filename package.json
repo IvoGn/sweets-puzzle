@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "Sweets Puzzle Einsendeaufgabe",
   "type": "module",
+  "homepage": "https://IvoGn.github.io/sweets-puzzle",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "phaser": "^3.88.2"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^6.3.5"
   },
   "author": "",
