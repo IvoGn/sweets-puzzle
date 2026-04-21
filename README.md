@@ -92,7 +92,7 @@ Ziel war die Umsetzung eines vollständigen Spiels mit:
 
 ## Demo
 
-(Optional: Link zu GitHub Pages oder Live-Demo einfügen)
+[Jetzt Spielen!](https://ivogn.github.io/sweets-puzzle/)
 
 ---
 
