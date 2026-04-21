@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Sweets Puzzle</title>
+    <script>
+      function loadFont(name, url) {
+        var newFont = new FontFace(name, `url(${url})`);
+        newFont
+          .load()
+          .then(function (loaded) {
+            document.fonts.add(loaded);
+          })
+          .catch(function (error) {
+            return error;
+          });
+      }
+      loadFont('customFont', '/assets/fonts/Jreeng.ttf');
+    </script>
+    <style type="text/css">
+      body {
+        margin: 0;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-Jw7yxorO.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
